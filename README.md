@@ -11,7 +11,7 @@ This project has been developed using the following technologies:
 Watch a demo of the project:
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/87d4IDdkDCU/0.jpg)](https://www.youtube.com/watch?v=GgcKOfL_Kg0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/87d4IDdkDCU/0.jpg)](https://www.youtube.com/watch?v=87d4IDdkDCU)
 
 
 
