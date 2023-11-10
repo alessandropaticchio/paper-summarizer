@@ -1,0 +1,4 @@
+export OPENAI_API_KEY=''
+export LLM_API_URL='http://host.docker.internal:8000/v1/completions'
+export ABSTRACTS_OUTPUT_FOLDER='data/abstracts'
+export OPENAI_EMBEDDINGS='text-embedding-ada-002'
